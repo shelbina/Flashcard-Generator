@@ -2,7 +2,7 @@ var fs = require("fs");
 var inquirer = require("inquirer");
 
 // The constructor should accept two arguments: front and back.
-function BasicCard(front, Back){
+var BasicCard = function(front, back){
     this.front = front;  
     this.back = back;
 	this.create = function() {

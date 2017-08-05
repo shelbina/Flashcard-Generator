@@ -60,6 +60,7 @@ var addCard = function() {
                 var newBasic = new BasicCard(answer.front, answer.back);
                 newBasic.create();
                 whatsNext();
+                
             });
         } else if (answer.cardType === 'cloze-flashcard') {
             inquirer.prompt([{

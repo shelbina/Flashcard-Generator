@@ -2,4 +2,4 @@
 {"text":"The first powered flight by the Wright brothers happened at Kitty Hawk, NC.","cloze":"Wright brothers","clozeDeleted":"The first powered flight by the ________ ________ happened at Kitty Hawk, NC.","type":"cloze"};
 {"front":"What is the largest city in North Carolina?","back":"Charlotte","type":"basic"};
 {"text":"Mount Mitchell is the highest peak east of the Mississippi at 6,684 feet.","cloze":"Mount Mitchell","clozeDeleted":"________ ________ is the highest peak east of the Mississippi at 6,684 feet.","type":"cloze"};
-{"front":"What is the largest, privately owned house in America? Clue: Located in Asheville, NC","back":"Biltmore","type":"basic"};
+{"front":"What is the largest, privately owned house in America? Clue: Located in Asheville, NC","back":"Biltmore","type":"basic"};{"front":"What popular soda was invented in North Carolina?","back":"Pepsi","type":"basic"};
